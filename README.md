@@ -25,7 +25,9 @@ Bug reporting/tracking for VerbaVox
 Ubuntu系のOSを利用している場合、  
 **端末**を起動して以下のコマンドを実行し、出力された内容をそのままコピーしてください。
 
-`lsb_release -irdc; snap version; snap list verbavox`
+```bash
+lsb_release -irdc; snap version; snap list verbavox
+```
 
 Ubuntu系以外のOSでは、バージョン情報に以下の情報を記述してください。
 
